@@ -1,0 +1,7 @@
+{
+  "name": "EchoMind",
+  "description": "EchoMind is a voice AI assistant.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
